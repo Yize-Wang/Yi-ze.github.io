@@ -1,2 +1,2 @@
-# yize.github.io
+# Yize.github.io
 Statistics Notes and Quant Research Material
